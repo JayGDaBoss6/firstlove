@@ -1,0 +1,36 @@
+.sect1 {
+  background-image: url("img/kissmom.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logosect {
+  white-space: nowrap;
+  background-color: rgba(230, 230, 230, 0.07)
+}
+
+.logosect p {
+  width: 100%;
+  font-size: 30px;
+  color: rgb(230, 230, 230);
+
+}
+
+.fl {
+  min-width: 100%;
+}
+
+.trans {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.fl {
+  font-weight: 400;
+}
+
+.navbut {
+  color: #e6e6e6;
+}
