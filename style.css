@@ -34,3 +34,41 @@
 .navbut {
   color: #e6e6e6;
 }
+
+.donatebutton{
+color:#3692CB;
+font-family: 'Poppins', sans-serif;
+}
+
+.text-light{
+  font-family: 'Poppins', sans-serif;
+}
+
+.brandpurp{
+color:#502C6B;
+}
+
+.brandblue{
+  color:#3692CB;
+}
+
+.headbutton{
+  background-color:#3692CB;
+}
+
+.icons{
+  font-size:5vw;
+  color:#502C6B;
+}
+
+.iconsbg{
+  background-color:rgba(230, 230, 230, 0.15)
+}
+
+.introtext{
+  font-size:6vw;
+}
+
+.subtext{
+  font-size:1.5vw;
+}
